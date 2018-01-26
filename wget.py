@@ -1,6 +1,6 @@
 # ****** B R Chandavarkar Modifications ******
 
-
+# From desktop
 
 # */10 * * * * python /etc/cron.hourly/wget.py
 
