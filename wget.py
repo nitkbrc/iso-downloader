@@ -2,9 +2,9 @@
 
 
 
-#*/10 * * * * python /etc/cron.hourly/wget.py
+# */10 * * * * python /etc/cron.hourly/wget.py
 
-# Phyton script to download md5 - hash based downloading of .iso of all the architectures of Ubuntu 
+# Phyton script to download updated Ubuntu's *.iso. 
 # Created by:
 # CSE Dept., NITK, Surathkal
 # email: 
